@@ -23,5 +23,5 @@ Welcome to the **Traditional OOP Practice Series**! This repository demonstrates
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aleeze123
+   git clone https://github.com/Aleeze123/Traditional-OOP-Series.git
    
