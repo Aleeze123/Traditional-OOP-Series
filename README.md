@@ -1,4 +1,4 @@
-# 🧱🎨🧩 Traditional OOP Patterns – Build, Compose & Decorate
+# 🧱🎨 Traditional OOP Patterns – Build, Compose & Decorate
 
 Welcome to the **Traditional OOP Practice Series**! This project explores foundational object-oriented programming concepts through three powerful design patterns:
 
