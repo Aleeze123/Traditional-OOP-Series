@@ -1,21 +1,21 @@
 # 🧱🎨🧩 Traditional OOP Patterns – Build, Compose & Decorate
 
-Welcome to the **Traditional OOP Practice Series**! This repository demonstrates core Object-Oriented Programming (OOP) concepts using three essential design patterns:
+Welcome to the **Traditional OOP Practice Series**! This project explores foundational object-oriented programming concepts through three powerful design patterns:
 
 - 🧱 **Builder Pattern** – Construct complex objects step by step.
-- 🧩 **Composition** – Combine simple objects to create complex behavior.
-- 🎨 **Decorator Pattern** – Dynamically add responsibilities to objects.
+- 🧩 **Composition** – Combine simple parts to form richer behaviors.
+- 🎨 **Decorator Pattern** – Dynamically add features to objects.
 
 ---
 
-## 📂 What's Inside
+## 🧠 What You'll Explore
 
-| File/Folder                  | Description                                    |
-|-----------------------------|------------------------------------------------|
-| `builderPattern.py`         | Example of the Builder Design Pattern          |
-| `compositionExample.py`     | Demonstration of Composition in OOP            |
-| `decoratorDemo.py`          | Classic Decorator Pattern implementation       |
-| `README.md`                 | You're here! 🙌                                |
+| 🧩 Concept        | 💡 Description                                               |
+|------------------|-------------------------------------------------------------|
+| 🧱 **Builder**     | Learn how to construct complex objects step by step.        |
+| 🧩 **Composition** | Discover how to combine simple parts into powerful systems. |
+| 🎨 **Decorator**   | Add behavior to objects dynamically and flexibly.           |
+| 📘 **Guide**       | Overview, usage instructions, and learning tips. 🙌          |
 
 ---
 
